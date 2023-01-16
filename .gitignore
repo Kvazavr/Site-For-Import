@@ -1,0 +1,6 @@
+private/
+Thumbs.db
+.DS_Store
+папка tmp
+*_old, 
+*_backup
